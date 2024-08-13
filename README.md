@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m Computer science and Engineering student
 - 📫 How to reach me:subasridurai07@gmai.com<br><br>
-Leetcode Id:https://leetcode.com/SUBASRI-D/
+Leetcode Id:https://leetcode.com/SUBASRI-D/<br><br>
 LANGUAGES AND TOOLS:<br><br>
 [![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)<br>
