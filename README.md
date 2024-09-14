@@ -6,7 +6,7 @@ LANGUAGES AND TOOLS:<br><br>
 [![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)<br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,figma&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,reactjs)
 
 
 
