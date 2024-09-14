@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m Computer science and Engineering student
-- 📫 How to reach me:subasridurai07@gmai.com<br><br>
+- 📫 How to reach me:![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)subasridurai07@gmai.com<br><br>
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)Leetcode Id:https://leetcode.com/SUBASRI-D/<br><br>
 LANGUAGES AND TOOLS:<br><br>
 [![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)<br>
