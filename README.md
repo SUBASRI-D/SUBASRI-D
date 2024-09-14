@@ -7,7 +7,7 @@ LANGUAGES AND TOOLS:<br><br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)<br>
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,react)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expressjs,mongodb)
 
 
 
